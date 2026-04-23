@@ -71,7 +71,7 @@ python Hangman.py
 
 ## Play this game
 
-![Open it on you `terminal` or `konsole`](Hangman.spec)
+![Open it on you `terminal` or `konsole`](/home/hangsovoleak/Desktop/PythonML/PyGame/dist/Hangman)
 
 ## 📁 Project Structure
 
